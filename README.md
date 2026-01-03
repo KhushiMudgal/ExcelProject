@@ -1,6 +1,6 @@
 # ExcelProject
 
-## Store Annual Sales Analysis (2022)
+## Store Annual Sales Analysis 
 
 ### Project Overview
 
