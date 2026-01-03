@@ -4,7 +4,7 @@
 
 ### Project Overview
 
-This project focuses on building an **end-to-end sales analytics solution** for *Vrinda Store* to analyze **annual sales performance for 2022**. The goal is to uncover customer behavior, sales trends, and channel performance to provide **actionable business insights** that can help increase sales in 2023.
+This project focuses on building an **end-to-end sales analytics solution** for *Store* to analyze **annual sales performance for 2022**. The goal is to uncover customer behavior, sales trends, and channel performance to provide **actionable business insights** that can help increase sales in 2023.
 
 The project covers **data cleaning, processing, analysis, and interactive dashboard creation** using Excel.
 
@@ -12,7 +12,7 @@ The project covers **data cleaning, processing, analysis, and interactive dashbo
 
 ### Business Objective
 
-To help Vrinda Store:
+To help Store:
 
 * Understand customer demographics and purchasing behavior
 * Identify top-performing states, categories, and sales channels
