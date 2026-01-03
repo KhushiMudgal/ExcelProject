@@ -83,4 +83,7 @@ To improve sales, Vrinda Store should:
 * **Data Analysis** – Pivot-based insights
 * **Interactive Dashboard** – Business-ready visualization
 
+<img width="1920" height="884" alt="image" src="https://github.com/user-attachments/assets/f102a6da-f7ea-4f97-b472-4d9761c46ddc" />
+
+
 
